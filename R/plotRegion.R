@@ -7,7 +7,6 @@
 #' @import Rsamtools
 #' @import GenomicRanges
 #' @importFrom biomaRt getBM useMart
-#' @importFrom IRanges elementNROWS splitAsList
 #' @importFrom S4Vectors List subjectHits subjectLength queryHits
 #' @importFrom grDevices hcl
 #' @importFrom graphics axis legend lines par plot plot.new rect segments text

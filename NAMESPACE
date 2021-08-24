@@ -3,8 +3,12 @@
 export('RepViz')
 import(GenomicRanges)
 import(Rsamtools)
+<<<<<<< HEAD
 importFrom(IRanges,elementNROWS)
 importFrom(S4Vectors,splitAsList)
+=======
+importFrom(IRanges,IRanges)
+>>>>>>> upstream/master
 importFrom(S4Vectors,List)
 importFrom(S4Vectors,queryHits)
 importFrom(S4Vectors,subjectHits)
