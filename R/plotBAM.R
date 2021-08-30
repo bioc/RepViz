@@ -20,8 +20,6 @@ makeCoverages <- function(region, BAMlayout) {
     return(coverages)
 }
 
-#' @importFrom IRanges IRanges
-
 # compute the coverage with Rsamtools
 # @param bamfile character path to the BAM file
 # @param region GRanges object containing the region to plot
